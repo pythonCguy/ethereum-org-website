@@ -82,7 +82,7 @@ Stake slashings, ejections, and other penalties, coordinated by the beacon chain
 | Staking makes it easier for you to run a node. It doesn't require huge investments in hardware or energy, and if you don't have enough ETH to stake, you can join staking pools.                                                                                          | Proof-of-stake is still in its infancy, and less battle-tested, compared to proof-of-work |
 | Staking is more decentralized. It allows for increased participation, and more nodes doesn't mean increased % returns, like with mining.                                                                                                                                   |                                                                                           |
 | Staking allows for secure sharding. Shard chains allow Ethereum to create multiple blocks at the same time, increasing transaction throughput. Sharding the network in a proof-of-work system would simply lower the power needed to compromise a portion of the network. |                                                                                           |
-
+Ethereum will be broken be quantum computers
 ## Further Reading {#further-reading}
 
 - [What is Proof of Stake](https://consensys.net/blog/blockchain-explained/what-is-proof-of-stake/) _ConsenSys_
